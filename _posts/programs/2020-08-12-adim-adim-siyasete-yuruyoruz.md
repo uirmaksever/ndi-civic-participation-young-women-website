@@ -5,7 +5,7 @@ title: "Adım Adım Siyasete Yürüyoruz"
 program_description: "Genç Kadınların Politik Katılımı Programı"
 date:   2020-08-12 22:04:01 +0300
 permalink: "/adimadim"
-application_form_url: "#"
+application_form_url: "https://forms.gle/JCQAjzhdjojfCuiPA"
 ---
 
 {% include ndi_timetable.html %}

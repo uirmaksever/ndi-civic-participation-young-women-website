@@ -5,7 +5,7 @@ title: "Katılıyoruz"
 program_description: "Yerel Yönetimler ve Sivil Gruplar Arasında Sivil Katılımı Geliştirme Programı"
 date:   2020-08-12 22:04:01 +0300
 permalink: "/katiliyoruz"
-application_form_url: "#"
+application_form_url: "https://forms.gle/MvjiHHd6UaJRPqTi7"
 ---
 
 {% include ndi_timetable.html %}
