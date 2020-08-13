@@ -1,0 +1,58 @@
+    <section id="services" class="section pt-0">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12 col-xs-12 post_headline">
+            <h2 class="head-title mb-4">Programlar</h2>
+          </div>
+        </div>
+        <div class="row">
+          <!-- Start Col -->
+          {% for program_post in site.posts %}
+            {% if post.path contains 'programs' %}
+            <div class="col-lg-4 col-md-6 col-xs-12">
+              <div class="services-item text-center">
+                <div class="icon">
+                  <i class="{{ program_post.icon }}"></i>
+                </div>
+                <h4>{{ program_post.title }}</h4>
+                <p>{{ program_post.program_description }}</p>
+              </div>
+            </div>
+            {% endif %}
+          {% endfor %}
+          <div class="col-lg-6 col-md-6 col-xs-12">
+            <div class="services-item text-center">
+              <div class="icon">
+                <i class="lni lni-handshake"></i>
+              </div>
+              <h4>Katılıyoruz</h4>
+              <p>“Katılıyoruz” programı, politik karar alma süreçlerine katkı sağlanmasını teşvik etmek ve sosyal girişimciler, sivil toplum örgütleri ve yerel yönetim temsilcileri arasındaki etkileşimin artırılmasına katkıda bulunmak için geliştirilmiştir.</p>
+              <div class="plan-button">
+                <a href="#" class="btn btn-border">Başvur</a>
+                <a href="{{ site.base_url }}/katiliyoruz" class="btn btn-common">Detaylar</a>
+              </div>
+            </div>
+          </div>
+          <!-- End Col -->
+          <!-- Start Col -->
+          <div class="col-lg-6 col-md-6 col-xs-12">
+            <div class="services-item text-center">
+              <div class="icon">
+                <i class="lni lni-users"></i>
+              </div>
+              <h4>Adım Adım Siyasete Yürüyoruz</h4>
+              <p>Bu programın hedefi, 18-35 yaş arasındaki genç kadınların karar alma mekanizmalarına ve siyasete katılımının artırılmasına katkıda bulunmaktır.</p>
+              <div class="plan-button">
+                <a href="#" class="btn btn-border">Başvur</a>
+                <a href="{{ site.base_url }}/adimadim" class="btn btn-common">Detaylar</a>
+              </div>
+            </div>
+          </div>
+          <!-- End Col -->
+          <!-- Start Col -->
+
+          <!-- End Col -->
+
+        </div>
+      </div>
+    </section>

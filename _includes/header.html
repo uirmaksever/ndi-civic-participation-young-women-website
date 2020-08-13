@@ -1,0 +1,37 @@
+    <header id="home" class="hero-area">    
+      <div class="overlay">
+        <span></span>
+        <span></span>
+      </div>
+      <nav class="navbar navbar-expand-md bg-inverse fixed-top scrolling-navbar">
+        <div class="container">
+          {% include navbar_logo.html %}      
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="lni-menu"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav mr-auto w-100 justify-content-end">
+              {% include header_items.html %}
+            </ul>
+          </div>
+        </div>
+      </nav>  
+      <div class="container">      
+        <div class="row space-100">
+          <div class="col-lg-6 col-md-12 col-xs-12">
+            <div class="contents">
+              <h2 class="head-title">{{ page.headline_title }}</h2>
+              <p>{{ page.headline_subtitle }}</p>
+              <div class="header-button">
+                <a href="{{ site.base_url }}/about" rel="nofollow" class="btn btn-border page-scroll">DETAYLARI İNCELE</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-12 col-xs-12 p-0">
+            <div class="intro-img">
+              <img src="assets/img/intro.png" alt="" style="display: none">
+            </div>            
+          </div>
+        </div> 
+      </div>
+    </header>
