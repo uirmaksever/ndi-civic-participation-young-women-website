@@ -2,9 +2,10 @@
 layout: post
 title: Hakkında
 permalink: /about
+disable_title: true
 ---
 
-# NDI
+# NDI Türkiye
 
 Ulusal Demokratik Enstitüsü (National Democratic Institute-NDI) 1983’teki kuruluşundan itibaren demokratik kurumları ve faaliyetleri destekleyen, demokrasi ve demokrasinin işlemesi için çalışan, kar amacı gütmeyen ve partizan olmayan bir uluslararası kurum olup, dünya çapında bu doğrultuda çalışan 50'yi aşkın ülke ofisi bulunmaktadır.
 
@@ -31,6 +32,9 @@ Paydaşlar, program kapsamında çeşitli etkili araçlar kullanarak kendilerini
 -   **Yerel yönetim yetkililerinin** sivil gruplar **(sivil toplum örgütleri, sosyal girişimler ve genç kadınlar)** ve **sivil toplum örgütleri, sosyal girişimler ve genç kadınların** birbirleri arasında artan işbirliği, fikir değiş-tokuşu, diyalog gibi becerilerin kazanılması hedeflenmektedir.
 
 Etkinlikler Covid-19 şartları altında çevrimiçi olarak planlanmış olup, başvurular 3 Eylül tarihine kadar açık kalacaktır. İki ayrı programın başvuru formları için lütfen aşağıdaki ilgili program linkine tıklayın.
+
+<h2 class="pt-3">Başvuru Takvimi</h2>
+{% include ndi_timetable.html %}
 <div class="row">
 	<div class="col-lg-6 col-md-6 col-xs-12">
 		<a href="{{ site.base_url }}/katiliyoruz" class="btn btn-common w-100 m-2">Katılıyoruz</a>	
@@ -39,8 +43,3 @@ Etkinlikler Covid-19 şartları altında çevrimiçi olarak planlanmış olup, b
 		<a href="{{ site.base_url }}/adimadim" class="btn btn-border w-100 m-2">Adım Adım Siyasete Yürüyoruz</a>	
 	</div>
 </div>
-
-
-# Başvuru Takvimi
-
-{% include ndi_timetable.html %}
