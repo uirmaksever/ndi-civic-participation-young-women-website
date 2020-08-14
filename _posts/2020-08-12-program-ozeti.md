@@ -8,7 +8,7 @@ Yerel yönetim yetkilileri, sivil toplum örgütleri ve sosyal girişimler aras�
 
 1.  Sivil gruplar ile ortak çalışma alanlarını ve işbirliği faaliyetlerini güçlendirmek isteyen **yerel yönetimler**, ve yerel karar alma mekanizmalarına çalışma faaliyetleri ile doğru orantılı olarak katkı sunmak ve kalıcı ve sürdürülebilir ilişkiler kurmayı amaçlayan **sivil toplum örgütleri** ve **sosyal girişimler** arasındaki sivil katılımı arttırmak için “**Katılıyoruz**” programı,
     
-2.  Karar alma mekanizmalarında aktif olarak yer almayı arzulayan genç kadınların bu mekanizmalara ve siyasete katılımının artırılmasına yönelik ise “**Adım Adım Siyasete Yürüyoruz**” programı uygulanacaktır.
+2.  Karar alma mekanizmalarında aktif olarak yer almayı arzulayan genç kadınların bu mekanizmalara ve siyasete katılımının artırılmasına yönelik ise “**Basamakları Tırmanıyoruz**” programı uygulanacaktır.
 
 Programlar birbiri ile eş zamanlı, ve gerekli durumlarda kesişecebilecek bir şekilde ilerleyecektir.
 
@@ -31,6 +31,6 @@ Etkinlikler Covid-19 şartları altında çevrimiçi olarak planlanmış olup, b
 		<a href="{{ site.base_url }}/katiliyoruz" class="btn btn-common w-100 m-2">Katılıyoruz</a>	
 	</div>
 	<div class="col-lg-6 col-md-6 col-xs-12">
-		<a href="{{ site.base_url }}/basamaklaritirmaniyoruz" class="btn btn-border w-100 m-2">Adım Adım Siyasete Yürüyoruz</a>	
+		<a href="{{ site.base_url }}/basamaklaritirmaniyoruz" class="btn btn-border w-100 m-2">Basamakları Tırmanıyoruz</a>	
 	</div>
 </div>
