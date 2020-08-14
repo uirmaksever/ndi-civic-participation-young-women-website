@@ -8,8 +8,6 @@ permalink: "/basamaklaritirmaniyoruz"
 application_form_url: "https://forms.gle/JCQAjzhdjojfCuiPA"
 ---
 
-{% include ndi_timetable.html %}
-
 Bu programın hedefi, 18-35 yaş arasındaki genç kadınların karar alma mekanizmalarına ve siyasete katılımının artırılmasına katkıda bulunmaktır. Program çerçevesinde siyasete katılımdan kastımız, ulusal düzlemde aktif olarak siyaset yapmaktan öte, hem yerel de, hem bir sosyal hareket üzerinden, aktif vatandaşlık ve sivil katılım çerçevesinde karar alma süreçlerinde söz alma arayışıdır. 
 
 Bu programda, genç kadınların siyasete katılmasının önündeki engellerin özellikle gerekli beceriler bakımından giderilmesi amacıyla; stratejik iletişim, ağ kurma ve savunuculuk gibi konularda çoğu çevrimiçi gerçekleşecek etkinliklerle becerileri güçlendirmek , mentörlük faaliyetleriyle rol modelleri ile tanıştırmak ve eşleştirmek hedeflenmektedir. Katılımcılarımız beceri geliştirmenin yanı sıra, siyasete katılımlarına hazırlık yapmak yönünde koçluk alacak, böylece kişisel kapasitelerini değerlendirme ve ölçme imkanına sahip olacaklardır. 
@@ -18,4 +16,6 @@ Eylül 2020 - Haziran 2021 arasında devam edecek programımızda, yaklaşık ol
 
 Adım adım siyasete hazırlanmak için aşağıdaki formu doldurmanız yeterli. Katılmaya hak kazanan adaylara Eylül ayının ortasında bilgilendirme yapılacaktır.
 
- <a href="{{ page.application_form_url }}" class="btn btn-common">Başvuru Formu</a>
+{% include ndi_timetable.html %}
+
+<a href="{{ page.application_form_url }}" class="btn btn-common">Başvuru Formu</a>

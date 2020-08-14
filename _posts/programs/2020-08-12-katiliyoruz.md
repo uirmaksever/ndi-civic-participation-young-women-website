@@ -18,5 +18,7 @@ Eylül 2020 - Haziran 2021 arasında devam edecek programımızda, sivil katıl�
 
 Katılıyoruz programına katılmak için başvuru formunu doldurmanız gereklidir. Katılmaya hak kazanan adaylara 14 Eylül haftası bilgilendirme yapılacaktır.
 
- <a href="{{ page.application_form_url }}" class="btn btn-common">Başvuru Formu</a>
+{% include ndi_timetable.html %}
+
+<a href="{{ page.application_form_url }}" class="btn btn-common">Başvuru Formu</a>
 
