@@ -4,5 +4,5 @@
 
 layout: home
 headline_title: "Demokratikleşme Bizimle Olacak"
-headline_subtitle: "NDI'ın yürüttüğü programlarla politik katılımınızı artırın."
+headline_subtitle: "NDI'ın yürüttüğü programlarla sivil katılımınızı artırın."
 ---
