@@ -1,10 +1,10 @@
 ---
 layout: post
 icon: "lni-cog"
-title: "Ben de Varım"
+title: "Biz de Varız"
 program_description: "Genç Kadınların Politik Katılımı Programı"
 date:   2020-08-12 22:04:01 +0300
-permalink: "/bendevarim"
+permalink: "/bizdevariz"
 application_form_url: "https://forms.gle/JCQAjzhdjojfCuiPA"
 ---
 
