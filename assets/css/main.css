@@ -456,6 +456,7 @@ button:focus {
    ========================================================================== */
 .hero-area {
   position: relative; }
+  
   .hero-area .overlay {
     position: absolute;
     width: 100%;
@@ -488,10 +489,12 @@ button:focus {
       position: absolute;
       height: 155px;
       left: 3%; }
+  
   /* Original background disabled. Custom background is set below -UI */
   /*
   .hero-area {
     background-color: #5533ff;
+    background-image: url("../../assets/img/fingerprints.svg");
   }
   */
   .hero-area .contents {
