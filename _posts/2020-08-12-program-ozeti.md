@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Program Özeti
+categories: [Materyal]
 permalink: /program
+disable_title: true
 ---
 
 Yerel yönetim yetkilileri, sivil toplum örgütleri ve sosyal girişimler arasındaki işbirliğini güçlendirmek ve siyasi karar alma süreçlerinde genç kadınların katılımı teşvik etmek hedefiyle Ulusal Demokratik Enstitüsü (NDI), Eylül 2020 ve Haziran 2021 tarihleri arasında belirtilen aktörlerden başvuru ile kabul edeceği bir grup katılımcı ile, iletişim (bireysel ve aktörler arası, mesaj geliştirme ve yayma), veri toplama ve kullanma, derin demokrasi, katılımcı karar alma süreçleri, müzakere gibi çeşitli becerilere yönelik uzun dönemli bir etkinlikler dizisi (eğitim, seminer, atölye çalışması, mentörlük, koçluk vb.) gerçekleştirecektir. Nihai olarak paydaşlar arası katılımı arttırmayı hedefleyen program iki ayrı başlıkta ilerleyecektir;

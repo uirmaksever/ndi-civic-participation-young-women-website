@@ -1,0 +1,76 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+# when using the default proxy server port
+# local_backend: true
+
+
+media_folder: 'assets/uploads'
+site_url: https://www.sivilkatilim.org
+display_url: https://www.sivilkatilim.org
+locale: "en"
+show_preview_links: false
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+  - name: 'pages'
+    identifier_field: "title"
+    label: 'Pages'
+    folder: '_posts/'
+    fields:
+      - {name: "title" }
+      - {name: "categories", widget: "list"}
+      - {name: "layout", default:"post", hidden:true}
+      - {name: "permalink"}
+      - {name: "disable_title", widget: "boolean", default: true}
+      - {name: "body", label: "Page Text", widget: "markdown"}
+
+
+  - name: "programs"
+    identifier_field: "title"
+    label: "Programs"
+    folder: "_posts/programs"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {name: "layout", label: "Layout", widget: "hidden", default: "post"}
+      - {name: "icon", label: "Icon Code (LineIcons)", widget: "string", default: "grid-alt"}
+      - {name: "title", label: "Title", widget: "string"}
+      - {name: "program_description", label: "Program Description", widget: "text"}
+      - {name: "date", label: "Post Publication Date", widget: "date"}
+      - {name: "permalink", label: "URL Path", widget: "string", hint: "Short keyword after domain. Ex: /onemsiyoruz"}
+      - {name: "application_form_url", label: "Application Form URL", widget: "string", default: "post"}
+      - {name: "body", label: "Program Text", widget: "markdown"}
+
+  - label: Global Settings
+    name: global
+    files:
+      - label: "Social Media"
+        name: "social"
+        file: "_data/social_media.yml"
+        fields:
+          - label: Social Media Links
+            name: platform
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Icon, name: icon, widget: string}
+              - {label: Link, name: link, widget: string}
+
+      - label: "Website Settings"
+        name: "home"
+        file: "_data/home.yml"
+        fields:
+          - {name: logo_title, label: "Logo Text"}
+          - {name: header_title, label: "Header Title"}
+          - {name: header_subtitle, label: "Header Subtitle"}
+          - {name: header_button_text, label: "Header Button Text"}
+          - {name: contact_ndi_name, label: "NDI Name that should be shown in contacts", widget: text}
+          - {name: contact_address, label: "NDI Turkey Office Address", widget: text}
+          - {name: contact_email_address, label: "NDI Turkey E-mail", widget: string}
+
+

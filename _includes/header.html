@@ -20,10 +20,10 @@
         <div class="row space-100">
           <div class="col-lg-8 col-md-12 col-xs-12">
             <div class="contents">
-              <h2 class="head-title">{{ page.headline_title }}</h2>
-              <p>{{ page.headline_subtitle }}</p>
+              <h2 class="head-title">{{ site.data.home.header_title }}</h2>
+              <p>{{ site.data.home.header_subtitle }}</p>
               <div class="header-button">
-                <a href="{{ site.base_url }}/program" rel="nofollow" class="btn btn-border page-scroll">DETAYLARI İNCELE</a>
+                <a href="{{ site.base_url }}/program" rel="nofollow" class="btn btn-border page-scroll">{{ site.data.home.header_button_text }}</a>
               </div>
             </div>
           </div>

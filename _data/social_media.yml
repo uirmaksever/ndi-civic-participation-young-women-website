@@ -1,0 +1,16 @@
+platform:
+  - icon: fa-facebook
+    link: 'https://www.facebook.com/National.Democratic.Institute'
+    name: Facebook
+  - icon: fa-twitter
+    link: 'https://twitter.com/ndi'
+    name: Twitter
+  - icon: fa-instagram
+    link: 'http://instagram.com/ndidemocracy'
+    name: Instagram
+  - icon: fa-youtube
+    link: 'https://www.youtube.com/user/ndipublicaffairs'
+    name: Youtube
+  - icon: fa-linkedin
+    link: 'http://www.linkedin.com/company/national-democratic-institute-ndi'
+    name: LinkedIn

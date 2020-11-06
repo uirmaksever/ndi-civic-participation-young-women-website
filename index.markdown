@@ -3,6 +3,4 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-headline_title: "Yerel Yönetimler ve Sivil Gruplar Arasında Sivil Katılımı Geliştirme Programı"
-headline_subtitle: "NDI'ın yürüttüğü programlarla sivil katılımınızı artırın."
 ---

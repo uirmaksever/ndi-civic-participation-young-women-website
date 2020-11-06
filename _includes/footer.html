@@ -42,11 +42,9 @@
               <div class="widget">
                 <h3 class="block-title">Sosyal Medya</h3>
                 <ul class="menu">
-                  <li><a href="https://www.facebook.com/National.Democratic.Institute">Facebook</a></li>
-                  <li><a href="https://twitter.com/ndi">Twitter</a></li>
-                  <li><a href="http://instagram.com/ndidemocracy">Instagram</a></li>
-                  <li><a href="https://www.youtube.com/user/ndipublicaffairs">YouTube</a></li>
-                  <li><a href="http://www.linkedin.com/company/national-democratic-institute-ndi">LinkedIn</a></li>
+                  {% for platform in site.data.social_media.platform %}
+                  <li><a href="{{platform.link}}">{{platform.name}}</a></li>
+                  {% endfor %}
                 </ul>
               </div>
             </div>
@@ -55,9 +53,9 @@
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
               <div class="widget contact_box">
                 <h3 class="block-title">İletişim</h3>
-                <strong>Ulusal Demokratik Enstitüsü (NDI Türkiye)  / National Democratic Institute for International Affairs (NDI)</strong>
-                <p><strong>Adres:</strong> Gaziosmanpaşa Mh. Filistin Cd. 2/5 Çankaya/Ankara</p>
-                <p><strong>E-Posta:</strong> <a href="mailto: infotr@ndi.org">infotr@ndi.org</a></p>
+                <strong>{{site.data.home.contact_ndi_name}}</strong>
+                <p><strong>Adres:</strong> {{site.data.home.contact_address}}</p>
+                <p><strong>E-Posta:</strong> <a href="mailto: {{site.data.home.contact_email_address}}">{{site.data.home.contact_email_address}}</a></p>
                 <p><a href="https://www.ndi.org">www.ndi.org</a> | <a href="https://www.demworks.org/">www.demworks.org</a></p>
                 {% comment %}
                 <div class="subscribe-area">

@@ -22,6 +22,8 @@
     <link rel="stylesheet" href="{{ site.base_url }}/assets/css/main.css">    
     <link rel="stylesheet" href="{{ site.base_url }}/assets/css/responsive.css">
 
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
   </head>
   
   <body>
@@ -57,5 +59,16 @@
     <script src="{{ site.base_url }}/assets/js/contact-form-script.js"></script>   
     <script src="{{ site.base_url }}/assets/js/main.js"></script>
     
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
