@@ -9,6 +9,6 @@ application_form_url: post
 ---
 # **Program Katılımcıları**
 
-![](/assets/uploads/katilimcilar2.png)
+![](/assets/uploads/katilimcilar.png)
 
 ``
