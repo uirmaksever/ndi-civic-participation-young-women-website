@@ -8,14 +8,3 @@ permalink: /katilimcilar
 application_form_url: post
 ---
 # **Program Katılımcıları**
-
-#### Belediyeler
-
-
-
-* **Bornova Belediyesi**
-* **Eskişehir Büyükşehir Belediyesi**
-* **Kaharamanmaraş Büyükşehir Belediyesi**
-* **Nilüfer Belediyesi**
-* **Rize Belediyesi**
-* **Sultanbeyli Belediyesi**
