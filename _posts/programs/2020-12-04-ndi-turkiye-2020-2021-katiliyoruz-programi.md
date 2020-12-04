@@ -9,6 +9,4 @@ application_form_url: post
 ---
 # **Program Katılımcıları**
 
-
-
-![](/assets/uploads/web-cso-se.png)
+![](/assets/uploads/web-katilimcilar.emf.png)
