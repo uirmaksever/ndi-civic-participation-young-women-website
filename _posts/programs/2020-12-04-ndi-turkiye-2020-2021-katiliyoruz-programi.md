@@ -11,6 +11,6 @@ application_form_url: post
 
 ![](/assets/uploads/katilimcilar.png)
 
-{% ?nf_resize=smartcrop&w=100&h=100 %}
+{?nf_resize=fit&w=300&h=300}
 
 ``
