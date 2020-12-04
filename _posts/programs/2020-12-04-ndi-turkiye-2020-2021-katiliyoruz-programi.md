@@ -10,11 +10,3 @@ application_form_url: post
 # **Program Katılımcıları**
 
 ![](/assets/uploads/web-katilimcilar.emf.png)
-
-<!--StartFragment-->
-
-```
-?nf_resize=fit&w=300
-```
-
-<!--EndFragment-->
