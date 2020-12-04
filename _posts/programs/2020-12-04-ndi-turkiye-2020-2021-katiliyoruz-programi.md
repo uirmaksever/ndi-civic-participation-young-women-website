@@ -13,19 +13,9 @@ application_form_url: post
 
 
 
-Bornova Belediyesi
-
-
-Eskişehir Büyükşehir Belediyesi
-
-
-Kaharamanmaraş Büyükşehir Belediyesi
-
-
-Nilüfer Belediyesi
-
-
-Rize Belediyesi
-
-
-Sultanbeyli Belediyesi
+* Bornova Belediyesi
+* Eskişehir Büyükşehir Belediyesi
+* Kaharamanmaraş Büyükşehir Belediyesi
+* Nilüfer Belediyesi
+* Rize Belediyesi
+* Sultanbeyli Belediyesi
