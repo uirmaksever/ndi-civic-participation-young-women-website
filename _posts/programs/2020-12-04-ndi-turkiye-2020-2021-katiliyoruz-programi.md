@@ -10,7 +10,3 @@ application_form_url: post
 # **Program Katılımcıları**
 
 ![](/assets/uploads/katilimcilar.png)
-
-```
-/images/katilimcilar.png?nf_resize=fit&w=300&h=400
-```
