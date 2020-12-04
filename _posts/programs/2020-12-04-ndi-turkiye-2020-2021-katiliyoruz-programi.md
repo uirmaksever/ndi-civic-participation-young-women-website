@@ -15,8 +15,4 @@ application_form_url: post
 
 
 
-```
-nf_resize=fit
-```
-
 ![](/assets/uploads/web-katilimcilar.emf.png)
