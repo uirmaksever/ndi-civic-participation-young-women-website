@@ -11,6 +11,6 @@ application_form_url: post
 
 ![](/assets/uploads/katilimcilar.png)
 
-{% include ndi_timetable.html %}
+{% ?nf_resize=smartcrop&w=100&h=100 %}
 
 ``
