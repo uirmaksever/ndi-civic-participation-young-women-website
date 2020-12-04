@@ -7,12 +7,10 @@ date: 2020-12-04T12:49:34.774Z
 permalink: /katilimcilar
 application_form_url: post
 ---
-
-
-
-
 # **Program Katılımcıları**
 
+![](/assets/uploads/katilimcilar.png)
 
-
-![](/assets/uploads/web-katilimcilar.emf.png)
+```
+/images/katilimcilar.png?nf_resize=fit&w=300&h=400
+```
