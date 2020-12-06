@@ -9,6 +9,6 @@ application_form_url: post
 ---
 # **Program Katılımcıları**
 
-![markdown-it](/assets/uploads/katilimcilar.png)
+![markdown-it-responsive](/assets/uploads/katilimcilar.png)
 
 ``
