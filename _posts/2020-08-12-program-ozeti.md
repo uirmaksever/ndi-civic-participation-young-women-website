@@ -26,7 +26,7 @@ Etkinlikler Covid-19 şartları altında çevrimiçi olarak planlanmış olup, b
 
 <div class="row">
 	<div class="col-lg-6 col-md-6 col-xs-12">
-		<a href="{{ site.base_url }}/katiliyoruz" class="btn btn-common w-100 m-2">Katılıyoruz</a>	
+		<a href="{{ site.base_url }}/katiliyoruz" class="btn btn-border w-100 m-2">Katılıyoruz</a>	
 	</div>
 	<div class="col-lg-6 col-md-6 col-xs-12">
 		<a href="{{ site.base_url }}/bizdevariz" class="btn btn-border w-100 m-2">Biz de Varız</a>	
