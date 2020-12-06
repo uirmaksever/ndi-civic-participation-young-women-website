@@ -19,6 +19,7 @@ application_form_url: post
 		border: 1px solid #CCC;
 	}
 	.tableizer-table th {
+                font-size: 16px;
 		background-color: #104E8B; 
 		color: #FFF;
 		font-weight: bold;
