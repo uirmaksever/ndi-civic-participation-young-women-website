@@ -1,22 +1,41 @@
 ---
 layout: post
-icon: "lni-cog"
-title: "Katılıyoruz"
-program_description: "Yerel Yönetimler ve Sivil Gruplar Arasında Sivil Katılımı Geliştirme Programı"
-date:   2020-08-12 22:04:01 +0300
-permalink: "/katiliyoruz"
-application_form_url: "https://forms.gle/MvjiHHd6UaJRPqTi7"
+icon: lni-cog
+title: Katılıyoruz
+program_description: Yerel Yönetimler ve Sivil Gruplar Arasında Sivil Katılımı Geliştirme Programı
+date: 2021-08-30T19:04:01.000Z
+permalink: /katiliyoruz
+application_form_url: https://forms.gle/rwb4jr6e9BZCbDi98
 ---
+**“KATILIYORUZ” Programı Sivil Katılım Süreçlerini Kurumsallaştırmak isteyen Belediyeleri Arıyor!**
 
-“Katılıyoruz” programı, politik karar alma süreçlerine katkı sağlanmasını teşvik etmek ve sosyal girişimciler, sivil toplum örgütleri ve yerel yönetim temsilcileri arasındaki etkileşimin artırılmasına katkıda bulunmak için geliştirilmiştir. Bu kapsamda program yerel yönetimler ve sivil aktörlerin (sivil toplum örgütleri, sosyal girişimler vb.) politika yapım ve uygulama süreçlerinde, aralarındaki iletişimi ve işbirliğini artırmayı ve geliştirmeyi amaçlamaktadır. 
+**NDI Türkiye ve Türkiye Kent Konseyleri Birliği ortaklığında hayata geçirilen KATILIYORUZ Programı** sivil 
 
-Katılıyoruz programı çerçevesinde, halihazırda sivil katılımı arttırmak için çalışmalar yapan ve/veya sivil katılımı arttırmak için desteğe ihtiyaç duyan sınırlı belediye seçilecektir. Aynı zamanda, ilgili belediyelerle işbirliği yapabilecek sivil toplum örgütleri ve sosyal girişimler programa dahil edilecektir. 3 farklı sektörden programa dahil olacak tüm katılımcılar, sivil katılımı geliştirmek için öz değerlendirme çalışması gerçekleştirilecek ve ardından ortaya çıkan ihtiyaçlar doğrultusunda özellikle gerekli beceriler bakımından stratejik iletişim, ağ kurma ve savunuculuk gibi konularda çoğu çevrimiçi gerçekleşecek etkinlikler düzenlenecektir.
+![](/assets/uploads/basvuru.jpg)
 
-Eylül 2020 - Haziran 2021 arasında devam edecek programımızda, sivil katılımı geliştirmek için her 3 gruba yönelik çoğu çevrimiçi olarak planlanan beceri geliştirici seminer, eğitim ve atölye çalışmaları düzenlenecektir. Buna ek olarak, program bitiminden önce katılımcıların bir sivil katılım eylem planı hazırlayıp, ardından uygulamaları beklenmektedir. Katılıyoruz programı ücretsiz olup, program boyunca katılımcılarımız NDI ekibinden teknik destek alabileceklerdir. Ayrıca eylem planlarının finansal olarak desteklenmesi mümkün olabilecektir. 
+aktörlerle etkileşim süreçlerini kurumsallaştırarak yerelde  daha şeffaf ve kapsayıcı karar alma ve  iletişim  süreçleri geliştirmek, bu sayede hizmetlerin verimliliğini ve etkinliğini arttırmak isteyen belediyeler için bütünsel bir öğrenme ve uygulama deneyimi olarak tasarlanmıştır.
 
-Katılıyoruz programına katılmak için başvuru formunu doldurmanız gereklidir. Katılmaya hak kazanan adaylara 14 Eylül haftası bilgilendirme yapılacaktır.
+Programın ilk döneminde (2020-2021) sivil katılım süreçlerini kurumsallaştırmaya istekli olan Eskişehir Büyükşehir Belediyesi, Kahramanmaraş Büyükşehir Belediyesi, Bornova Belediyesi (İzmir), Sultanbeyli Belediyesi (İstanbul) ve Nilüfer Belediyesi (Bursa) yerel sivil toplum kurumları, üniversite öğrenci kulüpleri, sosyal girişimler, özel sektör ve kent konseyi temsilcilerinin de katkılarıyla Türkiye’de bir ilki hayata geçirerek kendi Sivil Katılım Güçlendirme Yol Haritalarını hazırlamıştır.
 
-{% include ndi_timetable.html %}
+Programın Eylül 2021 - Haziran 2022 arasında gerçekleşecek yeni döneminde belediyeler:
 
-<a href="{{ page.application_form_url }}" class="btn btn-common">Başvuru Formu</a>
+* İhtiyaç analizi ile sivil katılım konusunda kendi kurumsal kapasitelerini, iyi oldukları ve geliştirmeleri gereken alanları saptayacak,
+* Eğitimleri, deneyim paylaşım buluşmaları, iyi örnek webinarlarına katılarak karar alma mekanizmalarını katılımcı hale getirmek ve sivil aktörler ile etkileşimlerini geliştirmek için gerekli bilgi ve becerilerini arttıracak,
+* NDI Türkiye ekibi ve program ortaklarından süreç danışmanlığı alarak kendi sivil katılım yol haritalarını hazırlayabilecek,
+* KATILIYORUZ programının sivil aktörleri (STÖ’ler ve sosyal girişimler) ile çeyrek dönem toplantılarda ve bire bir olarak düzenlenecek çevrimiçi toplantılarda tanışma ve işbirliği geliştirme fırsatları olacak, 
+* Sivil Katılım Destek Programı çerçevesinde sivil katılım alanında geliştirecekleri projeler 
+  için teknik ve ayni destek almak üzere başvurabileceklerdir.
 
+Program katılımcısı belediyeler Eylül 2021- Haziran 2022 ayları arasında;
+
+* Belediyenin nitelikli karar verme sürecini ve katılım süreçlerinin işleyişini geliştirmek için sivil aktörlerle etkileşim süreçlerinden sorumlu belediye birimleri belirleyerek farklı birim temsilcilerinden oluşacak bir koordinasyon ekibi kuracak, 
+* Stratejik plan ve yerelin ihtiyaç ve önceliklerini değerlendirerek odaklanmak istedikleri sivil katılım güçlendirme alanlarını belirleyecek,
+* Sivil katılımı iyileştirmek için katkıda bulunabilecek ve gelecekte düzenli etkileşimi devam ettirecek kurum içi ve dışı paydaşları haritalayacak,
+* Yol haritalarının oluşturulması için iç ve dış paydaşlarla katılım toplantıları düzenleyecek,
+  Kendi yerellerinde uygulayabilecekleri sivil katılım çalışmalarında iş birliği yapabilecekleri sosyal girişimler ve sivil toplum örgütleri ile tanışacak,
+* Sivil katılım yol haritalarını oluşturarak sivil aktörlerin belediyenin karar alma süreçlerine etkin bir biçimde dahil edilmesini ı kurumsal hale getirecek,
+* Hazırladıkları yol haritalarını sivil aktörler, ulusal ve uluslararası kurum ve kuruluşlarla paylaşacaklardır.
+
+Program belediyelerinden sivil katılım yol haritası hazırlık sürecinden sorumlu olacak ve yukarıda yer alan faaliyetleri takip edecek farklı müdürlüklerden temsilcilerden oluşan en az 4 kişilik bir koordinasyon ekibi kurmaları beklenmektedir. Program takibinden sorumlu olacak koordinasyon ekibinden, program faaliyetlerine düzenli katılım göstererek 9 ay içerisinde yaklaşık 100 saatlerini bu programa ayırmaları beklenecektir.
+
+**Son Başvuru Tarihi: 3 Eylül 2021, Cuma 18:00**
