@@ -11,9 +11,15 @@ application_form_url: https://forms.gle/rwb4jr6e9BZCbDi98
 
 **[Başvuru Formu](https://forms.gle/rwb4jr6e9BZCbDi98)**
 
+
+
 ![](/assets/uploads/basvuru.jpg)
 
+
+
 **NDI Türkiye ve Türkiye Kent Konseyleri Birliği ortaklığında hayata geçirilen KATILIYORUZ Programı** sivil aktörlerle etkileşim süreçlerini kurumsallaştırarak yerelde  daha şeffaf ve kapsayıcı karar alma ve  iletişim  süreçleri geliştirmek, bu sayede hizmetlerin verimliliğini ve etkinliğini arttırmak isteyen belediyeler için bütünsel bir öğrenme ve uygulama deneyimi olarak tasarlanmıştır.
+
+
 
 Programın ilk döneminde (2020-2021) sivil katılım süreçlerini kurumsallaştırmaya istekli olan Eskişehir Büyükşehir Belediyesi, Kahramanmaraş Büyükşehir Belediyesi, Bornova Belediyesi (İzmir), Sultanbeyli Belediyesi (İstanbul) ve Nilüfer Belediyesi (Bursa) yerel sivil toplum kurumları, üniversite öğrenci kulüpleri, sosyal girişimler, özel sektör ve kent konseyi temsilcilerinin de katkılarıyla Türkiye’de bir ilki hayata geçirerek kendi Sivil Katılım Güçlendirme Yol Haritalarını hazırlamıştır.
 
@@ -40,7 +46,11 @@ Program katılımcısı belediyeler Eylül 2021- Haziran 2022 ayları arasında;
 5. Sivil katılım yol haritalarını oluşturarak sivil aktörlerin belediyenin karar alma süreçlerine etkin bir biçimde dahil edilmesini ı kurumsal hale getirecek,
 6. Hazırladıkları yol haritalarını sivil aktörler, ulusal ve uluslararası kurum ve kuruluşlarla paylaşacaklardır.
 
+
+
 Program belediyelerinden sivil katılım yol haritası hazırlık sürecinden sorumlu olacak ve yukarıda yer alan faaliyetleri takip edecek farklı müdürlüklerden temsilcilerden oluşan en az 4 kişilik bir koordinasyon ekibi kurmaları beklenmektedir. Program takibinden sorumlu olacak koordinasyon ekibinden, program faaliyetlerine düzenli katılım göstererek 9 ay içerisinde yaklaşık 100 saatlerini bu programa ayırmaları beklenecektir.
+
+
 
 **Son Başvuru Tarihi: 3 Eylül 2021, Cuma 18:00**[](https://forms.gle/rwb4jr6e9BZCbDi98)
 
