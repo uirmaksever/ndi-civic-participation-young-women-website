@@ -9,6 +9,8 @@ application_form_url: https://forms.gle/rwb4jr6e9BZCbDi98
 ---
 **“KATILIYORUZ” Programı Sivil Katılım Süreçlerini Kurumsallaştırmak isteyen Belediyeleri Arıyor!**
 
+[Başvuru Formu](https://forms.gle/rwb4jr6e9BZCbDi98)
+
 ![](/assets/uploads/basvuru.jpg)
 
 **NDI Türkiye ve Türkiye Kent Konseyleri Birliği ortaklığında hayata geçirilen KATILIYORUZ Programı** sivil aktörlerle etkileşim süreçlerini kurumsallaştırarak yerelde  daha şeffaf ve kapsayıcı karar alma ve  iletişim  süreçleri geliştirmek, bu sayede hizmetlerin verimliliğini ve etkinliğini arttırmak isteyen belediyeler için bütünsel bir öğrenme ve uygulama deneyimi olarak tasarlanmıştır.
@@ -36,10 +38,6 @@ Program katılımcısı belediyeler Eylül 2021- Haziran 2022 ayları arasında;
 
 Program belediyelerinden sivil katılım yol haritası hazırlık sürecinden sorumlu olacak ve yukarıda yer alan faaliyetleri takip edecek farklı müdürlüklerden temsilcilerden oluşan en az 4 kişilik bir koordinasyon ekibi kurmaları beklenmektedir. Program takibinden sorumlu olacak koordinasyon ekibinden, program faaliyetlerine düzenli katılım göstererek 9 ay içerisinde yaklaşık 100 saatlerini bu programa ayırmaları beklenecektir.
 
-**Son Başvuru Tarihi: 3 Eylül 2021, Cuma 18:00**
+**Son Başvuru Tarihi: 3 Eylül 2021, Cuma 18:00[](https://forms.gle/rwb4jr6e9BZCbDi98)**
 
-<!--StartFragment-->
-
-{% include ndi_timetable.html %}
-
-<!--EndFragment-->
+[Başvuru Formu](https://forms.gle/rwb4jr6e9BZCbDi98)
